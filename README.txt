@@ -1,6 +1,6 @@
 # graph_louvain_clustering
-- **required** : python
-- **required python packages** : numpy, scipy, pandas, igraph, louvain
+- **required** : matlab, python
+- **required python packages** : numpy, scipy, pandas, igraph, louvain, h5py
 
 See the argument usages in **run_louvain_resolution.sh** for a single run. <br>
 See the parameters and arguments in **iter_run_louvain_resolution.sh** for a iterative runs.
